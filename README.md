@@ -6,5 +6,4 @@ This project was created 10 months ago when I was still learning React Native, I
 
 <br></br>
 
-The new project can be found at this [link](https://www.github.com/nklmantey/travel)
 
